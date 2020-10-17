@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net45</TargetFramework>
+    <AssemblyTitle>XamlSamples</AssemblyTitle>
+    <Product>XamlSamples</Product>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Copyright>Copyright ©  2014</Copyright>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.0.0.446417" />
+  </ItemGroup>
+</Project>
